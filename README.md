@@ -1,6 +1,6 @@
 ![Header](https://imgur.com/YOUR_IMAGE_URL)
 
-# 👋 Hi there, I'm Azher Ali!
+# 👋 Hi there, I'm [Your Name]!
 
 I'm a passionate Full Stack Developer with over 5 years of experience in building scalable and efficient applications. Welcome to my GitHub profile!
 
@@ -36,6 +36,16 @@ Here are some of the technologies and tools I work with:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![OAuth2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?logo=oauth&logoColor=white&style=for-the-badge)
 
+### Others
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 ## 📂 Projects
 
 ### [Project 1: E-commerce Platform](https://github.com/username/project1)
@@ -61,7 +71,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?azhermurad=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🤝 Contact
@@ -73,4 +83,3 @@ Here are some of the technologies and tools I work with:
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project. Let's build something amazing together!
-
