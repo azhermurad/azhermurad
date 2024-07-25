@@ -1,4 +1,3 @@
-![Header](https://imgur.com/YOUR_IMAGE_URL)
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Azher Ali!
 
@@ -46,24 +45,28 @@ Here are some of the technologies and tools I work with:
 
 ## 📂 Projects
 
-### [Project 1: E-commerce Platform](https://github.com/username/project1)
-**Description:** Developed a full-featured e-commerce platform with user authentication, product listings, and payment integration using Node.js, React, and MongoDB.
+### [📂 E-commerce Old Book Selling](https://github.com/azhermurad/MERN-OldBookStore)
+**Description:** Developed a full-featured e-commerce platform with user authentication, product listings, and payment integration using Node.js, React, Express, and MongoDB.
 
 - Features include product search, order tracking, and user reviews.
 - Implemented OAuth 2.0 for secure user authentication.
+- Strip and PayPal for payment Integration.
 - Deployed on AWS with CI/CD pipelines.
+- **Technologies:**
+  - Node.js, React, MongoDB, Expres, React Bootstrap, Strip, etc.
 
-### [Project 2: Social Media App](https://github.com/username/project2)
-**Description:** Created a social media application using React Native, enabling users to share posts, like, comment, and interact with a real-time chat feature.
+### [📂 Fitness App with Expo Router](https://github.com/azhermurad/fitness_app_with_expo_router)
+**Description:** The Fitness App is a mobile application designed to help users track their fitness goals, monitor their progress, and stay motivated. Built using React Native and Expo Router, this app provides an intuitive and seamless user experience, allowing users to focus on their fitness journey.
 
 - Integrated Firebase for real-time data synchronization.
 - Built-in push notifications for user engagement.
 - Utilized Expo for easy cross-platform deployment.
+- Visual graphs and charts to track weight, body measurements, and other metrics over time.
 
-### [Project 3: Task Management System](https://github.com/username/project3)
-**Description:** Designed a task management web application using NestJS and PostgreSQL, allowing teams to organize and track their workflows efficiently.
+### [📂 Dashboard For NFT ](https://github.com/azhermurad/pbirs)
+**Description:** Designed a dashboard  using Reactjs, and Chartjs, allowing teams to organize and track their workflows efficiently.
 
-- Implemented RESTful APIs with NestJS.
+- Integrate third-party APIS.
 - Used PostgreSQL for efficient data management and complex queries.
 - Developed a responsive front-end using React.
 
