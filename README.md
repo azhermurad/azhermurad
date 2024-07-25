@@ -1,6 +1,6 @@
 ![Header](https://imgur.com/YOUR_IMAGE_URL)
 
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Azher Ali!
 
 I'm a passionate Full Stack Developer with over 5 years of experience in building scalable and efficient applications. Welcome to my GitHub profile!
 
@@ -61,7 +61,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?azhermurad=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🤝 Contact
