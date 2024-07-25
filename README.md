@@ -78,7 +78,7 @@ Here are some of the technologies and tools I work with:
 ## 🤝 Contact
 
 - 📫 Email: [azheraly009@example.com](mailto:azheraly009@example.com)
-- 💼 LinkedIn: [Azher Ali](www.linkedin.com/in/azher-ali)
+- 💼 LinkedIn: [Azher Ali](https://www.linkedin.com/in/azher-ali)
 
 ---
 
