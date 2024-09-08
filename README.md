@@ -5,9 +5,9 @@ I'm a passionate Full Stack Developer with over 6+ years of experience building 
 
 ## 🚀 About Me
 
-I am a Full Stack Developer with expertise in creating high-performance web and mobile applications. My primary tech stack includes JavaScript, Node.js, NestJs, React, NestJs, and React Native. I thrive in collaborative environments and love tackling challenging problems with innovative solutions.
+I am a Full Stack Developer with expertise in creating high-performance web and mobile applications. My primary tech stack includes JavaScript, Node.js, NestJs, React,Python, NestJs, and React Native. I thrive in collaborative environments and love tackling challenging problems with innovative solutions.
 
-- 🔭 I’m working on enhancing my cloud computing and DevOps skills.
+- 🔭 I’m working on enhancing my Data Science and Machine Learning skills.
 - 🌱 I’m currently learning advanced-level system design architecture.
 - 👯 I’m looking to collaborate on open-source projects that make a difference.
 - ⚡ Fun fact: I'm a coffee enthusiast and enjoy exploring new brewing techniques.
