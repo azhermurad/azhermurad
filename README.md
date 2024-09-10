@@ -5,7 +5,9 @@ I'm a passionate Full Stack Developer with over 6+ years of experience building 
 
 ## 🚀 About Me
 
-I am a Full Stack Developer with expertise in creating high-performance web and mobile applications. My primary tech stack includes JavaScript, Node.js, NestJs, React,Python, NestJs, and React Native. I thrive in collaborative environments and love tackling challenging problems with innovative solutions.
+### Versatile Data Scientist | Expert in Advanced Analytics & Machine Learning | Full Stack & Mobile Development Specialist | Open-Source Enthusiast
+
+As a dedicated Data Scientist and Full-Stack Developer, I excel in leveraging advanced analytics and machine learning to drive meaningful insights and innovation. My expertise in data science allows me to extract actionable intelligence from complex datasets, while my skills in full-stack development and mobile applications enable me to build and deploy integrated solutions. Proficient in Python, JavaScript, Node.js, NestJS, React, and React Native, I seamlessly blend data science with cutting-edge technologies to address challenging problems and deliver impactful results. Passionate about open-source solutions, I continually seek opportunities to contribute to and learn from the global tech community.
 
 - 🔭 I’m working on enhancing my Data Science and Machine Learning skills.
 - 🌱 I’m currently learning advanced-level system design architecture.
