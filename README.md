@@ -30,13 +30,15 @@ I'm always excited to collaborate on innovative AI solutions and data-driven pro
 Here are some of the technologies and tools I work with:
 
 ### Languages and Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=deepnote&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
 ### Databases
