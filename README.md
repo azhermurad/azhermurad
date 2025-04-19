@@ -7,12 +7,18 @@ I'm a passionate Data Scientist and Full Stack Developer with over 6+ years of e
 
 ### Versatile Data Scientist | Expert in Advanced Analytics & Machine Learning | Full Stack & Mobile Development Specialist | Open-Source Enthusiast
 
-As a dedicated Data Scientist and Full-Stack Developer, I excel in leveraging advanced analytics and machine learning to drive meaningful insights and innovation. My expertise in data science allows me to extract actionable intelligence from complex datasets, while my skills in full-stack development and mobile applications enable me to build and deploy integrated solutions. Proficient in Python, JavaScript, Node.js, NestJS, React, and React Native, I seamlessly blend data science with cutting-edge technologies to address challenging problems and deliver impactful results. Passionate about open-source solutions, I continually seek opportunities to contribute to and learn from the global tech community.
+I'm a passionate Data Scientist and AI/ML Engineer with hands-on experience building intelligent systems using machine learning, deep learning, and natural language processing. I specialize in developing scalable models using frameworks like PyTorch, TensorFlow, and Python — from research to real-world deployment.
 
-- 🔭 I’m working on enhancing my Data Science and Machine Learning skills.
-- 🌱 I’m currently learning advanced-level system design architecture.
-- 👯 I’m looking to collaborate on open-source projects that make a difference.
-- ⚡ Fun fact: I'm a coffee enthusiast and enjoy exploring new brewing techniques.
+My work bridges the gap between data and decision-making. I use tools like Power BI to transform raw data into actionable insights, and I'm equally comfortable developing full-stack solutions with Node.js and Nestjs.
+
+✅ Machine Learning & Deep Learning (CNNs, NLP, Transfer Learning)
+✅ PyTorch, TensorFlow, Scikit-learn
+✅ Data Analysis & Visualization with Power BI
+✅ Python for Data Science
+✅ AI/ML Model Deployment & API Integration
+✅ Backend Development with Node.js
+
+I'm always excited to collaborate on innovative AI solutions and data-driven projects. Let’s connect and create something impactful!
 
 ## 🛠️ Skills
 
