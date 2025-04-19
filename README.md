@@ -1,7 +1,7 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Azher Ali!
 
-I'm a passionate Data Scientist and Full Stack Developer with over 6+ years of experience building scalable and efficient applications. Welcome to my GitHub profile!
+I'm a passionate Data Scientist and Full Stack Developer with over 3+ years of experience building scalable and efficient applications. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
