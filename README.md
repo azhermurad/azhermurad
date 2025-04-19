@@ -12,10 +12,15 @@ I'm a passionate Data Scientist and AI/ML Engineer with hands-on experience buil
 My work bridges the gap between data and decision-making. I use tools like Power BI to transform raw data into actionable insights, and I'm equally comfortable developing full-stack solutions with Node.js and Nestjs.
 
 ✅ Machine Learning & Deep Learning (CNNs, NLP, Transfer Learning)
+
 ✅ PyTorch, TensorFlow, Scikit-learn
+
 ✅ Data Analysis & Visualization with Power BI
+
 ✅ Python for Data Science
+
 ✅ AI/ML Model Deployment & API Integration
+
 ✅ Backend Development with Node.js
 
 I'm always excited to collaborate on innovative AI solutions and data-driven projects. Let’s connect and create something impactful!
