@@ -90,6 +90,17 @@ Here are some of the technologies and tools I work with:
   - Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter
 
 
+### [📂 Python for Data Analysis](https://github.com/azhermurad/Python-for-Data-Analysis)  
+**Description:** A focused repository on using Python for efficient data manipulation, analysis, and visualization based on practical use cases.
+
+- Covers essential Python libraries for data analysis including NumPy, Pandas, and Matplotlib.
+- Includes hands-on examples of data wrangling, time series analysis, and descriptive statistics.
+- Demonstrates end-to-end data workflows from importing data to generating insights.
+- Ideal for beginners and intermediate learners aiming to master Python’s data analysis ecosystem.
+- **Technologies:**
+  - Python, Pandas, NumPy, Matplotlib, Jupyter
+
+
 ### [📂 Dashboard For NFT ](https://github.com/azhermurad/pbirs)
 **Description:** Designed a dashboard  using Reactjs, and Chartjs, allowing teams to organize and track their workflows efficiently.
 
