@@ -1,4 +1,4 @@
-
+az
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Azher Ali!
 
 ## 🚀 About Me
@@ -58,23 +58,37 @@ Here are some of the technologies and tools I work with:
 
 ## 📂 Projects
 
-### [📂 E-commerce Old Book Selling](https://github.com/azhermurad/MERN-OldBookStore)
-**Description:** Developed a full-featured e-commerce platform with user authentication, product listings, and payment integration using Node.js, React, Express, and MongoDB.
+### [📂 Deep Learning with TensorFlow](https://github.com/azhermurad/Deep_Learning_with_TensorFlow)  
+**Description:** Hands-on implementations of core deep learning concepts using TensorFlow and Keras, covering both foundational and advanced topics.
 
-- Features include product search, order tracking, and user reviews.
-- Implemented OAuth 2.0 for secure user authentication.
-- Strip and PayPal for payment Integration.
-- Deployed on AWS with CI/CD pipelines.
+- Projects include image classification, sentiment analysis, and transfer learning.
+- Implemented CNNs, RNNs, and fully connected networks from scratch and using pre-trained models.
+- Integrated TensorBoard for training visualization and model evaluation.
+- Optimized model performance using callbacks, early stopping, and learning rate scheduling.
 - **Technologies:**
-  - Node.js, React, MongoDB, Expres, React Bootstrap, Strip, etc.
+  - TensorFlow, Keras, NumPy, Pandas, Matplotlib, Scikit-learn
 
-### [📂 Fitness App with Expo Router](https://github.com/azhermurad/fitness_app_with_expo_router)
-**Description:** The Fitness App is a mobile application designed to help users track their fitness goals, monitor their progress, and stay motivated. Built using React Native and Expo Router, this app provides an intuitive and seamless user experience, allowing users to focus on their fitness journey.
 
-- Integrated Firebase for real-time data synchronization.
-- Built-in push notifications for user engagement.
-- Utilized Expo for easy cross-platform deployment.
-- Visual graphs and charts to track weight, body measurements, and other metrics over time.
+### [📂 Machine Learning with Python](https://github.com/azhermurad/machine_learning_with_python)  
+**Description:** Comprehensive implementations of traditional machine learning algorithms using Python and Scikit-learn.
+
+- Covers supervised and unsupervised learning techniques including regression, classification, clustering, and dimensionality reduction.
+- Implemented algorithms include Linear Regression, Decision Trees, KNN, SVM, Naive Bayes, K-Means, PCA, and more.
+- Includes data preprocessing, model evaluation, and hyperparameter tuning.
+- Jupyter Notebooks with detailed explanations and visualizations for each algorithm.
+- **Technologies:**
+  - Python, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+ 
+### [📂 Data Science With Python](https://github.com/azhermurad/Data-Science-With-Python)  
+**Description:** A practical repository demonstrating essential data science workflows, from data cleaning to advanced analytics and visualization.
+
+- Includes real-world datasets and step-by-step data exploration, preprocessing, and feature engineering.
+- Performed exploratory data analysis (EDA) with insightful visualizations and statistical summaries.
+- Applied machine learning models for predictive analytics and model evaluation.
+- Emphasis on reproducibility and interpretability using clean, well-documented Jupyter Notebooks.
+- **Technologies:**
+  - Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter
+
 
 ### [📂 Dashboard For NFT ](https://github.com/azhermurad/pbirs)
 **Description:** Designed a dashboard  using Reactjs, and Chartjs, allowing teams to organize and track their workflows efficiently.
