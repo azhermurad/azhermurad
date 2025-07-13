@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-### Versatile Data Scientist | Expert in Advanced Analytics & Machine Learning | Full Stack & Mobile Development Specialist | Open-Source Enthusiast
+### Data Scientist | AI/Ml Engineer | Data Analyst | Backend Developer | Open-Source Enthusiast
 
 I'm a passionate Data Scientist and AI/ML Engineer with hands-on experience building intelligent systems using machine learning, deep learning, and natural language processing. I specialize in developing scalable models using frameworks like PyTorch, TensorFlow, and Python — from research to real-world deployment.
 
