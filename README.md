@@ -1,8 +1,6 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Azher Ali!
 
-## 🚀 About Me
-
 ### Data Scientist | AI/Ml Engineer | Data Analyst | Backend Developer | Open-Source Enthusiast
 
 I'm a passionate Data Scientist and AI/ML Engineer with hands-on experience building intelligent systems using machine learning, deep learning, and natural language processing. I specialize in developing scalable models using frameworks like PyTorch, TensorFlow, and Python — from research to real-world deployment.
