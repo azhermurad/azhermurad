@@ -1,49 +1,25 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Azher Ali!
 
-### Data Scientist | AI/Ml Engineer | Data Analyst | Backend Developer | Open-Source Enthusiast
+### Data Scientist | AI/ML Engineer | Generative AI Practitioner | Open-Source Contributor
 
-I'm a passionate Data Scientist and AI/ML Engineer with hands-on experience building intelligent systems using machine learning, deep learning, and natural language processing. I specialize in developing scalable models using frameworks like PyTorch, TensorFlow, and Python — from research to real-world deployment.
+I’m a passionate Data Scientist and AI/ML Engineer with a strong foundation in building end-to-end intelligent systems — from research and prototyping to scalable real-world deployment. My expertise spans deep learning, natural language processing, and generative AI, leveraging state-of-the-art frameworks like PyTorch, TensorFlow, and Hugging Face.
 
-My work bridges the gap between data and decision-making. I use tools like Power BI to transform raw data into actionable insights, and I'm equally comfortable developing full-stack solutions with Node.js and Nestjs.
+I enjoy bridging the gap between cutting-edge research and practical applications. Whether it’s fine-tuning large language models, developing retrieval-augmented generation (RAG) systems with LangChain, or crafting data-driven insights with Power BI, I thrive at turning complex data into impactful solutions.
 
-✅ Machine Learning & Deep Learning (CNNs, NLP, Transfer Learning)
+✅ Machine Learning & Deep Learning (CNNs, RNNs, NLP, Transfer Learning, LLMs)
 
-✅ PyTorch, TensorFlow, Scikit-learn
+✅ Generative AI & LLM Fine-Tuning (Hugging Face, LoRA/PEFT, LangChain, LangGraph, CrewAI)
 
-✅ Data Analysis & Visualization with Power BI
+✅ Data Analysis & Visualization (Python, Pandas, NumPy, Power BI, Matplotlib)
 
-✅ Python for Data Science
+✅ End-to-End AI Pipelines & Deployment (FastAPI, Streamlit, API integration)
 
-✅ AI/ML Model Deployment & API Integration
+✅ Backend & Full-Stack Development (Node.js, REST APIs)
 
-✅ Backend Development with Node.js
+✅ Open-Source Contributions & Research Prototyping
 
-I'm always excited to collaborate on innovative AI solutions and data-driven projects. Let’s connect and create something impactful!
-
-## 🛠️ Skills
-
-Here are some of the technologies and tools I work with:
-
-### Languages and Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=deepnote&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-
+I’m always excited to collaborate on innovative AI solutions, contribute to open-source projects, and work on data-driven applications that create real impact
 
 ## 📂 Projects
 
@@ -68,6 +44,39 @@ Here are some of the technologies and tools I work with:
 - **Technologies:**
   - Python, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
  
+### [📂 Natural Language Processing with Python](https://github.com/azhermurad/Natural_Language_Processing_With_Python)  
+**Description:** Practical implementations of core NLP concepts using Python, from traditional text processing to modern deep learning methods.  
+- Projects include text classification, text summarization, and TF-IDF–based recommendation systems.  
+- Implemented preprocessing techniques such as tokenization, stemming, lemmatization, and custom vectorization.  
+- Explored classic ML approaches (Naive Bayes, SVM-style pipelines) alongside deep learning and sequence modeling.  
+- Worked with embeddings including Word2Vec and Transformer-based models for semantic understanding.  
+- Organized modular code and notebooks for reproducibility across datasets like BBC news text classification.  
+- **Technologies:**  
+  - Python, NumPy, Pandas, Matplotlib  
+  - NLTK, spaCy, scikit-learn, Gensim, Hugging Face Transformers
+ 
+### [📂 Hugging-Face-Fine-Tuning-LLMs](https://github.com/azhermurad/Hugging-Face-Fine-Tuning-LLMs)  
+**Description:** Hands-on examples exploring how to fine-tune large language models using Hugging Face’s tools—from classic supervised training to parameter-efficient methods.  
+- Includes practical code for supervised fine-tuning (SFT), adapter-based techniques like LoRA, and quantization strategies.  
+- Demonstrates training using Hugging Face’s Trainer/SFTTrainer API and PEFT (parameter-efficient fine-tuning) methods.  
+- Covers dataset preparation, prompt formatting, and efficient training workflows for modern LLMs.  
+- Emphasizes practical applications such as domain adaptation and cost-effective fine-tuning setups.  
+- **Technologies:**  
+  - Python, Hugging Face Transformers & Datasets, 🤗 PEFT/LoRA  
+  - Trainer API (SFTTrainer), quantization (bits-and-bytes), supervised fine-tuning techniques  
+
+
+### [📂 Generative AI with LangChain](https://github.com/azhermurad/generative_ai_with_langchain)  
+**Description:** Hands-on projects using LangChain to build intelligent Generative AI systems by integrating large language models with external data sources, tools, and APIs.  
+- Projects include conversational agents, retrieval-augmented generation (RAG), document-based QA, and LLM-powered agents.  
+- Implemented modular pipelines with FAISS and Chroma vector stores for knowledge-grounded responses.  
+- Built prompt-engineered systems using system messages, templates, memory chains, and tool-enabled agents.  
+- Integrated multiple LLM providers such as OpenAI GPT-4, Google Gemini, Groq (local LLaMA/Mixtral models), and Claude.  
+- **Technologies:**  
+  - LangChain, Python, Streamlit / CLI  
+  - OpenAI GPT-4, Google Gemini, Groq models  
+  - FAISS, Chroma, prompt templates, memory-based chains  
+ 
 ### [📂 Data Science With Python](https://github.com/azhermurad/Data-Science-With-Python)  
 **Description:** A practical repository demonstrating essential data science workflows, from data cleaning to advanced analytics and visualization.
 
@@ -89,18 +98,6 @@ Here are some of the technologies and tools I work with:
 - **Technologies:**
   - Python, Pandas, NumPy, Matplotlib, Jupyter
 
-
-### [📂 Dashboard For NFT ](https://github.com/azhermurad/pbirs)
-**Description:** Designed a dashboard  using Reactjs, and Chartjs, allowing teams to organize and track their workflows efficiently.
-
-- Integrate third-party APIS.
-- Used PostgreSQL for efficient data management and complex queries.
-- Developed a responsive front-end using React.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azhermurad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azhermurad&layout=compact&theme=radical)
 
 ## 🤝 Contact
 
