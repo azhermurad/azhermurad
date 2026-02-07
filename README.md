@@ -23,6 +23,17 @@ I’m always excited to collaborate on innovative AI solutions, contribute to op
 
 ## 📂 Projects
 
+### [📂 LLM Post-Training: SFT, GRPO, Reasoning & Continued Pretraining (vLLM + DDP)](https://github.com/azhermurad/llm-posttraining-sft-grpo-reasoning-cpt-vllm-ddp)  
+**Description:** Hands-on implementations for post-training large language models, covering supervised fine-tuning (SFT), reinforcement learning with GRPO, reasoning tasks, and continued pretraining using distributed setups.
+
+- Projects include SFT, GRPO-based policy optimization, reasoning enhancement, and large-scale continued pretraining.
+- Implemented distributed training workflows with PyTorch DDP and efficient inference using vLLM.
+- Prepared and tokenized datasets, formatted prompts, and designed training loops for modern LLMs.
+- Optimized training with gradient accumulation, mixed-precision, and multi-GPU scaling strategies.
+- **Technologies:**
+  - Python, PyTorch, Hugging Face Transformers & Datasets, vLLM, DDP, GRPO, SFT
+
+
 ### [📂 Deep Learning with TensorFlow](https://github.com/azhermurad/Deep_Learning_with_TensorFlow)  
 **Description:** Hands-on implementations of core deep learning concepts using TensorFlow and Keras, covering both foundational and advanced topics.
 
