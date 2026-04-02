@@ -112,7 +112,7 @@ I’m always excited to collaborate on innovative AI solutions, contribute to op
 
 ## 🤝 Contact
 
-- 📫 Email: [azheraly009@example.com](mailto:azheraly009@example.com)
+- 📫 Email: [azheraly009@gmail.com](mailto:azheraly009@gmail.com)
 - 💼 LinkedIn: [Azher Ali](https://www.linkedin.com/in/azher-ali)
 
 ---
