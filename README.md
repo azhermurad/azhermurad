@@ -1,7 +1,7 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Azher Ali!
 
-### Data Scientist | AI/ML Engineer | Generative AI Practitioner | Open-Source Contributor
+### Data Scientist | AI/ML Engineer | Open-Source Contributor
 
 I’m a passionate Data Scientist and AI/ML Engineer with a strong foundation in building end-to-end intelligent systems — from research and prototyping to scalable real-world deployment. My expertise spans deep learning, natural language processing, and generative AI, leveraging state-of-the-art frameworks like PyTorch, TensorFlow, and Hugging Face.
 
